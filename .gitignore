@@ -1,0 +1,7 @@
+venv/
+data/phishing.db
+data/pages/
+output/*.png
+output/*.md
+__pycache__/
+*.pyc

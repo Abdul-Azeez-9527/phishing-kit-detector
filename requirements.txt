@@ -1,0 +1,10 @@
+requests
+httpx
+beautifulsoup4
+lxml
+ppdeep
+scikit-learn
+networkx
+matplotlib
+tldextract
+PyYAML
